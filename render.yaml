@@ -16,7 +16,7 @@ services:
       - key: APP_ID 
         sync: false
       - key: API_HASH 
-        sync: fals
+        sync: false
       - key: STRING_SESSION
         sync: false
       - key: DEVLO
